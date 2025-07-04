@@ -49,28 +49,28 @@ Dolci
 - [Ciambellone per colazione](#ciambellone-gas)
 - [Dolce con mele cotte e amaretti](#dolce-con-mele-cotte-e-amaretti)
 - [Dolce di pasqua - castagnole](#dolce-pasquale)
-Tiramisù - Mantovana
-Biscotti anice
-Crostata - biscotti
-Maritozzi
-Ciambelle di patate
-Pizza di formaggio
-Salame al cioccolato
-Dolce ricotta e fragole
-Ligue di gatto
-Pane veloce
-Biscotto allo yogurt
-Marmellata limoni
-Pane di segale
-Castagnaccio
-Pan d'arancio
-Praline mascarpone
+- [Tiramisù - Mantovana](#tiramisù)
+- [Biscotti anice](#biscotti-anice-dalida)
+- [Crostata - biscotti](#crostata)
+- [Maritozzi](#maritozzi-gemma)
+- [Ciambelle di patate](#ciambelle-di-patate)
+- [Pizza di formaggio](#pizza-di-formaggio)
+- [Salame al cioccolato](#salame-al-cioccolato)
+- [Dolce ricotta e fragole](#dolce-ricotta-e-fragole)
+- [Lingue di gatto](#lingue-di-gatto)
+- [Pane veloce](#pane-veloce)
+- [Biscotto allo yogurt](#biscotto-allo-yogurt-eleonora)
+- [Marmellata limoni](#marmellata-limoni)
+- [Pane di segale](#pane-di-segale)
+- [Castagnaccio](#castagnaccio)
+- [Pan d'arancio](#pan-darancio)
+- [Praline mascarpone](#praline-di-mascarpone)
 
 
 ### Pomodori in padella
 Spaccare a metà i pomodori maturi. 
 Metterli in padella.
-Considrli sopra con sale, aglio, mentuccia o maggiorana. 
+Condirli sopra con sale, aglio, mentuccia o maggiorana. 
 
 
 ### Stracciatella uova e pomodoro
@@ -103,13 +103,13 @@ Ricetta x 2kg
 
 1 litro aceto
 1/2 etto sale
-1 biecchiere medio di olio
+1 bicchiere medio di olio
 5 cucchiai di zucchero
 Peperoni, cipolline, carote, sedano, funghi, cavolfiori.
 - Pulirli e spezzarli in piccoli pezzi (peperoni per ultimo)
 - Aceto, sale e verdure (e ingredienti sopra)
 farli bollire 6-7 minuti (non devono essere tanto cotti).
-Spegnere, aggiungere lo zucchero e girare (assagiare per quantità dello zucchero).
+Spegnere, aggiungere lo zucchero e girare (assaggiare per quantità dello zucchero).
 Quando sono freddi metterli nei barattoli con sugo bollitura. 
 
 
@@ -207,7 +207,7 @@ Quando è cotto (non deve essere troppo asciutto) aggiungere parmigiano.
 - Vino bianco (o spumante dolce) un bicchiere
 - sale, pepe, parmigiano grattugiato.
 
-Metà burro, 1/2 cipolla, 1 carota, gambo prezzemolo, alloro, 1 cucchiaio pomodor.
+Metà burro, 1/2 cipolla, 1 carota, gambo prezzemolo, alloro, 1 cucchiaio pomodoro.
 Far rosolare. Aggiungere gamberetti lavati e asciugati. Rosolare 10 minuti. Mescolando aggiungere cognac e lasciare evaporare.
 
 In una pentola grande mettere 1 dito olio, il resto del burro e poca cipolla tritata, imbiondire cipolla. 
@@ -223,7 +223,7 @@ Quando sono cotti mettere il riso e aggiungere acqua bollente e brodo.
 Condire con burro e parmigiano.
 
 Oppure:
-Si può condire con sugo di pomodoro, carota e sedano, cipola - <u>precedentemente preparato</u>.
+Si può condire con sugo di pomodoro, carota e sedano, cipolla - <u>precedentemente preparato</u>.
 
 PS: per i spinaci/funghi carciofi ecc. procedimento è uguale.
 
@@ -270,7 +270,7 @@ Condimento:
 noce moscata, cannella, cacao dolce o cioccolato
 zucchero, pane grattato, noci, nocciole tritate
 
-- Lessare la pasta, fare a sstrati con condimento. Mangiare giorno dopo.
+- Lessare la pasta, fare a strati con condimento. Mangiare giorno dopo.
 
 
 ### Gnocchi di semolino
@@ -281,9 +281,9 @@ x6 = latte 1 litro
 - parmigiano grattato
 - burro gr. 80.
 
-Quando il latte bolle, versarvi il semolino a pioggia, girando con un mestolo. Fare cuocere per 10 minuit. 
+Quando il latte bolle, versarvi il semolino a pioggia, girando con un mestolo. Fare cuocere per 10 minuti. 
 Togliere dal fuoco, condire con poco sale, tuorli uovo un pugno di parmigiano grattato e metà del burro.
-- Versare il semolino su tavolo un armo [?] bagnato.
+Versare il semolino su tavolo un armo [?] bagnato.
 Spianare con una lama ad un cm di altezza.
 Quando è freddo tagliare quadrati 4x4 cm.
 In un tegame da forno fare uno strato di semolino poi parmigiano (teglia imburrata) e così continuare a strati (x3-4 strati) a piramide.
@@ -495,7 +495,7 @@ Unire la carne macinata, la maggiorana, il parmigiano, l'uovo salato e pepato. P
 <u>x 1 persona</u>
 Maiale magro gr. 50, prosciutto crudo o cotto 8 gr., latte gr. 150, olio gr. 5, cipolla, sedano, carota, rosmarino, limone e sale. 
 
-Legare il magro di maiale e metterlo nel tegame con prosciuto tritato, cipolla, sedano, carote e olio.
+Legare il magro di maiale e metterlo nel tegame con prosciutto tritato, cipolla, sedano, carote e olio.
 Rosolare fino colore dorato, salare la carne, scolare il grasso aggiungere il latte e far cuocere lentamente.
 Quando la carne è cotta, alzare il gas e far addensare la salsa; tagliare la carne e scaldare la salsa a parte con il succo di limone. Servire le fette coperte di salsa calda. 
 
@@ -536,7 +536,7 @@ x6
 1 kg. finocchi, farina, olio, sale, pomodoro. Togliere foglie dure, tagliare a fette e lessare.
 
 Con olio e poco pomodoro e 1 mestolo di acqua e un pizzico di sale preparare leggera salsa.
-Scolare i finocchi, passarli nella farina e allinearli nell' olio, rosolare e poi aggiungere la salsa di pomodoro. Far sbollire e servire caldo.
+Scolare i finocchi, passarli nella farina e allinearli nell'olio, rosolare e poi aggiungere la salsa di pomodoro. Far sbollire e servire caldo.
 
 
 ### Zucchine ripiene di tonno
@@ -620,7 +620,7 @@ Cuocere a 170° - 180° per almeno un ora.
 
 
 ### Dolce pasquale
-3 uova, 2 hg. burro, 1 etto candidi, 1 cubetto e mezzo lievito di birra, 2 hg. zucchero, uvetta a piacere, 1 vaniglia, mandolre per mettere sopra, zucchero a granelli.
+3 uova, 2 hg. burro, 1 etto candidi, 1 cubetto e mezzo lievito di birra, 2 hg. zucchero, uvetta a piacere, 1 vaniglia, mandorle per mettere sopra, zucchero a granelli.
 Un bicchiere di latte tiepido per sciogliere lievito, farina.
 Far sciogliere il lievito nel latte per 1/2 ora.
 Impastare tutto e lasciare lievitare al caldo e poi infornare e cuocere per 40 minuti.
@@ -633,4 +633,301 @@ Dose: 3 uova, 250 farina
 1 di zucchero
 mistrà [?] e limone, 1/2 bustina <u>lievito</u>.
 Impastare e friggere. 
+
+
+### Tiramisù
+
+1/2 kg mascarpone (oppure panna)
+A) 4-5 rossi uovo
+5 cucchiaini zucchero - sbattere tutto insieme.
+
+Bagnare pavesini o savoiardi con caffè amaro e acqua. Mettere a strati con crema fatto A)
+Rifinire con cacao in polvere.
+
+
+### Mantovana (biscotto Zia Imene)
+4 uova, 150 gr. burro, 200 gr. zucchero, 300 farina, 1 bustina lievito (mandorle tritate o aroma mandorle).
+
+
+## Tipo pane
+
+
+### Biscotti anice (Dalida)
+
+1 cubetto lievito birra, 1/2 bicchiere anice, 1 kg. farina.
+
+A) Un giorno prima sciogliere lievito in acqua tiepida. Impastare ogni tanto e lasciare lievitare.
+
+B) Impastare tutto di nuovo. Unire l'anice, 2 bicchieri di olio, poco sale (l'impasto deve essere morbido).
+
+C) Formare le ciambelle, far lievitare 2 ore. Pentola grande, bollire acqua, all'ebollizione metterci ciambelle infarinate nella pentola una alla volta. Quando tornano a galla scolarle e poggiare su un piano infarinato.
+
+NB: infornare bene asciutte (anche giorno dopo) quando sono sbollentate tutte.
+Infornare a forno caldo per circa 1/2 ora fino a colorazione e cottura. 
+
+
+### Crostata
+Farina 300 gr, uova 3, zucchero 100, burro 100 gr., limone, una bustina lievito. Dose per pasta frolla.
+
+Sopra: marmellata oppure crema, sopra frutta e gelatina oppure ricotta con uvetta e poco amaretto.
+
+
+### Biscotti
+1 uovo, zucchero gr. 300, 1 bicchiere olio, vino bianco 1 bicchiere e 1/2, lievito 1 bustina, limone o anice o zenzero, farina 400.
+
+
+### Dose biscotto Vania
+- 3 uova, 200 gr. zucchero, 25 gr. burro, 400 gr. farina,
+- 1 pizzico di sale, 1 succo di limone, 
+- 1 bicchiere di latte (o 2),
+- 3 cucchiai cacao dolce, 
+- 3 cucchiai uvetta e 1 di noci,
+- 1 bustina lievito.
+
+
+### Maritozzi (Gemma)
+Dose 30 maritozzi - Zia Gemma)
+- 2 uova
+- 2 etti olio
+- 1 limone
+- 100 gr. uvetta
+- 2 etti zucchero
+- 30 gr. lievito birra
+- 1/2 litro latte
+- farina q.b.
+
+Mettere lievito la mattina (ore 8) (lievito in acqua tiepida e farina)
+(ore 11) Quando è lievitato 2 ore circa aggiungere gli ingredienti e impastare.
+Rimettere a lievitare fino al pomeriggio (ore 16).
+Quando è lievitato di nuovo, ungere con poco olio.
+Teglia grande.
+
+Formare i maritozzi e rifare lievitare.
+Quando sono cresciuti infornare.
+Forno caldo e tempo come per biscotto (180° e 45-60 minuti).
+
+
+### Maritozzi (Zia Rossella)
+4 uova, 300 gr. zucchero, 200 olio, 100 gr. lievito birra, 1/2 litro latte caldo, 150 gr. uvetta, 2 cartine vaniglia, 1 limone grattugiato, farina q.b. (per impasto come per crostata o gnocchi).
+
+Battere le chiare a parte. 
+Unire tutto all'impasto.
+Fare maritozzi, mettere sul soletto a lievitare ed infornare forno caldo 180°.
+
+
+### Dolce polenta
+2 uova, 5 cucchiai zucchero, 1 etto burro, 1 bicchiere farina polenta, 1 bicchiere farina bianca, 1/2 cartina lievito.
+
+Impastare tutto 40 minuti in forno 180°.
+Cospargere zucchero al velo.
+
+
+### Ciambelle di patate
+2 etti patate, 2 uova, 50 gr. burro, 
+7 cucchiai di zucchero, 
+1 panetto lievito di birra, 
+2-3 dita di latte tiepido per sciogliere lievito,
+farina q.b. (quanta ne raccoglie impasto).
+
+Far lievitare tutto 3/4 di ora. 
+Friggere e calde rotolarle nello zucchero.
+
+Facoltativo: buccia limone grattugiata e 3 cucchiai "mistrà".
+
+
+### Torta di mele (Onelia)
+3 uova, 1 bustina lievito, 50 gr. burro, farina 400, latte 1 bicchiere, buccia limone grattugiato, 2 etti zucchero.
+
+Impastare tutto.
+Tagliare 3 mele a spicchi sottili, condirle con sambuca, zucchero o cannella, mettere a cerchio in piedi nell'impasto, cospargere di zucchero, informare 40 minuti 180°.
+
+
+### Pizza di formaggio
+4 uova, 2 bicchieri latte, 1 bicchiere olio, formaggio quasi 2 etti (quasi tutto pecorino),
+2 buste lievito pizzaiolo.
+Farina quanto basta per impasto un po' più denso del biscotto.
+<u>Cottura</u> sul fornello 5 minuti al max, poi minimo per circa 1 ora. 
+
+
+### Salame al cioccolato
+Tritare un pacco Oro Saiwa, noccioline o mandorle, 1 etto burro, 1 rosso uovo, cacao meno di una bustina, cioccolato, caffè, bicchiere liquore,
+zucchero 5 cucchiai, latte, 1 cucchiaio farina.
+
+Avvolgere impasto in carta forno, poi alluminio. Arrotolare stretto e mettere in forno per indurire.
+
+
+### Dolce ricotta e fragole
+2 etti di ricotta, 2 etti di fragole, 1 etto burro, 1 uovo, 2 etti zucchero a velo, 2 etti pan di spagna.
+
+MONTARE ricotta e burro, chiare e zucchero a velo, unire tutto insieme.
+BAGNARE pan di spagna con <u>marsala e latte</u>, farcire con burro, fragole e ricotta, ecc.
+
+Mettere in frigo per 1 giorno.
+
+
+### Pizza al formaggio
+- 4 uova,
+- 2 bicchieri di latte, 
+- 1 bicchiere olio,
+- 2 etti formaggio (1,5 etti pecorino + parmigiano)
+- 2 bustine "lievito pizzaiolo" istantaneo
+- Farina q.b. (quanto basta a fare impasto poco piû denso del biscotto)
+
+Cottura "fornetto versilia" (a ciambellone) 5 minuti fiamma alta, poi lasciare al minimo 45 minuti (fare la prova spiedino, se esce asciutto è cotto).
+
+
+### Lingue di gatto
+- Farina 100 gr.
+- zucchero 40 gr.
+- burro/olio 100 gr.
+- albumi 4
+- (facoltativo 1 vanillina)
+
+Lavorare zucchero e burro, unire farina e poco alla volta gli albumi. 
+Lasciare riposare 1 ora.
+Mettere in sacco a poche, oppure con cucchiaio posizionarli sulla teglia con carta forno.
+Distanziati per non farli attaccare.
+
+In forno preriscaldato a 200° per 7-8 minuti (finché sono leggermente dorati).
+
+Togliere subito dalla teglia per non farli rompere. 
+
+
+### Pane veloce
+- 1 bustina lievito birra disidratato
+- 275 gr. acqua
+- 400 gr. farina 0
+- 100 gr. farina Manitoba
+- 10 gr. zucchero
+- 1 cucchiaino sale
+- 40 gr. olio extravergine oliva
+
+Acqua (tiepida) + lievito far sciogliere.
+
+Aggiungere farine + zucchero + sale + olio. Impastare bene.
+
+Mettere a riposare in una ciotola coperta con pellicola "posta tiepida" finché raddoppia di volume (3 ore circa).
+
+Quando è raddoppiato dividere in 2 filoncini, posizionare su teglia con carta forno, lasciar lievito coperto finché non cresce. 
+Preriscaldare forno a 200° (posizionare media bassa altezza), mettere in forno ciotola acqua per vapore, cuocere per 20-25 minuti circa (prova stecchino). 
+
+
+### Biscotto allo yogurt (Eleonora)
+Misurino = vasetto yogurt
+- 6 uova
+- 2 vasetti yogurto (cocco)
+- 3 vasetti zucchero
+- 1 vasetto olio oliva
+- 4 vasetti farina
+- 1 vasetto fecola patate
+- 3 cucchiai limoncello
+- 2 bustine lievito per dolci
+- 2 vanillina bustine
+
+Dividere i tuorli. Montare a neve albumi e zucchero.
+Unire yogurt, olio, farina setacciata, tuorli, il liquore, il lievito e vanillina.
+
+Teglia oliata e infarinata, oppure con carta forno.
+
+Infornare a FORNO CALDO a 180° per circa 40 minuti. 
+
+
+### Marmellata limoni
+- 1 kg limoni
+- 400-500 gr. zucchero
+- 2 mele
+
+Far bollire limoni interi per 3-4 volte. Buttare l'acqua ogni volta.
+
+Far freddare. Togliere semi, sbriciolare e tagliare tutto a pezzi piccoli - medi.
+
+Far bollire per 45 minuti (in una teglia con lo zucchero e mele, maneggiare e fare attenzione che non si attacchi al tegame).
+
+Lavare i vasi e mettere in forno a 120° per 10 minuti o bollirli.
+
+Riempirli con marmellata calda, chiudere bene, ribaltare sottosopra (per fare il vuoto) o facendoli bollire pieni per 20 minuti a "bagno maria".
+
+
+### Pane di segale
+(La lievitazione va da 4 a 20 ore)
+- 500 gr. farina segale
+- 100 gr. farina Manitoba (o 0)
+- 350/400 ml acqua
+- 1/2 cucchiaino sale, 1/2 cucchiaino sale (per lievitazione)
+- 10 gr lievito birra (o lievito madre per 500 gr. farina).
+
+Farina semola per spinatoie.
+Sciogliere lievito in <u>100 ml</u> acqua tiepida, aggiungere la farina, sale/zucchero e (acqua con lievito) e impastare.
+Aggiungere l'altra acqua e impastare. 
+Far lievitare l'impasto "appiccicoso".
+Dopo un'ora infarinare il piano, lavorare "il lievitato", formare un panetto.
+
+Foderare uno stampo con carta forno (oppure una teglia). Far lievitare finché raddoppia.
+
+Scaldare forno a 250° e infornare dopo 10 minuti portare a 170°. Cuocere per 50, 60 minuti circa. 
+
+
+### Pane di segale (dosaggio alternativo)
+- 300 gr. farina segale
+- 100/200 gr. farina (1 oppure 0)
+- 300 ml acqua tiepida
+- 15 gr. lievito o dose per 500 gr. farina,
+- 5 gr. malto o zucchero, 
+- 1 cucchiaino sale (per lievitazione).
+
+Sciogliere lievito in acqua tiepida, aggiungere le farine, sale e zucchero.
+Impastare, lasciar lievitare coperto con pellicola per 2 ore.
+
+Impastare ancora, se occorre aggiungere poca farina. Posizionare in teglia, fare tagli per lievitazione. 
+Quando raddoppia infornare a 250°. Dopo 10 minuti a 170°. Cuocere per 1 ora circa. 
+
+
+### Castagnaccio
+- 400 gr. farina castagne
+- 520 gr. acqua
+- 80 gr. pinoli
+- 1 rametto rosmarino fresco / 1 pizzico sale fino
+- 30 gr. olio oliva
+- 1 arancia / 60 gr. uvetta sultanina
+
+Ammollare uvetta in acqua tiepida, sminuzzare finemente foglie rosmarino (quasi tutte), sminuzzare, grattugiare solo la parte arancione della buccia d'arancia.
+
+Uvetta e pinoli aggiungerne 3/4 nell'impasto. 
+Unire farina, aggiungere acqua piano piano, l'impasto deve risultare "vischioso" ma non liquido.
+Aggiungere pinoli, uvetta e buccia arancia + sale.
+Versare nello stampo con carta forno. 
+Aggiungere restante rosmarino, uvetta e pinoli, olio. 
+
+Infornare a 180° per 30 minuti.
+
+
+### Pan d'arancio
+- 400 gr. arance non trattate
+- 120 gr. latte100 gr. olio arachidi o simile
+- 200 gr. zucchero
+- 3 uova
+- 250 gr. farina 00
+- 50 gr. fecola patate
+- 16 gr. lievito per dolci
+- 1 pizzico di sale / zucchero a velo
+
+Arance lavate e tagliate con la buccia a piccoli pezzi (togliere semi). Frullare con latte e olio.
+Aggiungere con zucchero e uova + farina e fecola. 
+Frullare.
+Aggiugnere lievito e sale.
+Trasferire in uno stampo imburrato (o carta forno).
+
+Cuocere in forno caldo 180° per 50 minuti.
+
+Quando è freddo cospargere con zucchero a velo.
+
+
+### Praline di mascarpone
+Ingredienti: wafer vaniglia, polvere di cocco, mascarpone, mandorle.
+
+Sbriciolare i wafer alla vaniglia e unire al mascarpone.
+Fare palline (della grandezza di una noce).
+Inserire dentro mandorla o nocciola.
+Rotolare le palline nella polvere di cocco. 
+Farle riposare in frigorifero. 
 
