@@ -15,9 +15,9 @@ Ricette di cucina
 - [Risotto alla milanese](#risotto-alla-milanese)
 - [Risotto con salsicce](#risotto-con-salsicce)
 - [Risotto con gamberetti](#riso-con-gamberetti)
-Risotto e spinaci
-Penne salmone
-Pasta e carciofi
+- [Risotto e spinaci](#risotto-e-spinaci)
+- [Penne al salmone](#penne-al-salmone)
+- [Pasta e carciofi](#pasta-con-carciofi)
 Pasta puttanesca
 Gnocchi di semolino
 Sughi e verdure
@@ -210,4 +210,38 @@ In una pentola grande mettere 1 dito olio, il resto del burro e poca cipolla tri
 Aggiungere riso e girare un po'. 
 Bagnare con vino bianco, quando è evaporato bagnare con acqua calda e brodo.
 Condire con sale e pepe. Portare a cottura. Poco prima aggiungere gamberetti e liquido cottura. Spolverare con parmigiano.
+
+
+### Risotto e spinaci
+Soffriggere aglio in olio, poi pomodoro poi spinaci, sale e pepe. 
+Quando sono cotti mettere il riso e aggiungere acqua bollente e brodo.
+
+Condire con burro e parmigiano.
+
+Oppure:
+Si può condire con sugo di pomodoro, carota e sedano, cipola - <u>precedentemente preparato</u>.
+
+PS: per i spinaci/funghi carciofi ecc. procedimento è uguale.
+
+### Penne al salmone
+Soffriggere aglio nel burro con salmone affumicato sminuzzato. 
+Togliere l'aglio e mettere 3 cucchiai pomodoro.
+Poin in proporzione 1 etto mascarpone (o una busta di panna) e poco pepe bianco.
+
+Cuocere le penne, ripassarle in padella con il sughetto e aggiungere poco parmigiano.
+
+### Pasta con carciofi
+
+In padella = 2 cucchiai burro
+- 1/2 cipolla tritata fina
+- 1/2 bicchiere vino bianco
+- 1 cucchiaio farina
+- carciofi
+- prezzemolo
+
+Sciogliere burro e cipolla tritata - 1 cucchiaio farina 
+1/2 bicchiere vino secco, i carciofi tagliati a quarti e <u><span style="font-variant: small-caps;">PRECEDENTEMENTE LESSATI</span></u> far cuocere tutto insieme, aggiungere prezzemolo.
+Quando le tagliatelle sono cotte, unirle ai carciofi.
+Aggiungere parmigiano.
+Servire calde. 
 
