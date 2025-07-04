@@ -43,12 +43,12 @@ Carne
 
 Dolci 
 
-Biscotto / crostata con amaretti
-Dolce all'arancia
-Zuppa inglese
-Ciambellone per colazione
-Dolce mele cotte e amaretti
-Dolce di pasqua - castagnole
+- [Biscotto crostata con amaretti (Zia Imene)](#biscotto-crostata-con-amaretti-zia-imene)
+- [Dolce all'arancia](#dolce-arancia-zia-emma)
+- [Zuppa inglese](#zuppa-inglese)
+- [Ciambellone per colazione](#ciambellone-gas)
+- [Dolce con mele cotte e amaretti](#dolce-con-mele-cotte-e-amaretti)
+- [Dolce di pasqua - castagnole](#dolce-pasquale)
 Tiramisù - Mantovana
 Biscotti anice
 Crostata - biscotti
@@ -565,4 +565,72 @@ Spegnere. Aggiungeer prezzemolo o maggiorana e servire.
 
 \* Le uova possono essere lasciate intere o sbattute e sminuzzate e servite su crostini di pane nel piatto. 
 
+
+### Biscotto crostata con amaretti (Zia Imene)
+<u>Pasta sfoglia</> = 
+farina 3 etti, 3 tuorli uovo, zucchero 3 etti, burro 150 gr., 1/2 bustina lievito.
+
+Ungere bene soletto, pasta abbastanza dura da stendere sottile. 
+
+Sopra mettere 2 banane a fettine, 1 strato <u>amaretti</u> prima bagnati nel caffè amaro - (facoltativo: fichi secchi a fettine), mele sottilissime e mandorle tritate.
+
+Per COPRIRE altra sfoglia pasta pigiarla sui bordi e cuocere in forno per 20 minuti.
+
+
+### Dolce arancia (Zia Emma)
+Per tegame 30 cm diametro.
+
+- Biscotto = 
+3 uova, 2 etti farina, 1 etto burro, 1/2 bicchiere latte, 2 bucce arancia grattugiate, zucchero 150 gr., 1 bustina lievito.
+
+- Crema = (per farcire biscotto tagliato a metà)
+succo 3 arance e 1 limone, 1 uovo intero, 50 gr. burro, 1 bustina vaniglia, zucchero 1-2 cucchiaini, 1 cucchiaino di farina di fecola.
+
+Dividere a metà il biscotto, farcire con la crema, spolverare con zucchero a velo.
+
+
+### Zuppa inglese
+6 <u>uova</u> (3 solo tuorli), 8 cucchiai <u>zucchero</u>, 6 cucchiai <u>farina</u>, 1 litro di <u>latte</u> (10 tazzine), 1/2 <u>limone</u>, 1 bustina vanillina, cannella poca dopo addensata.
+
+Bagnare pan di spagna tagliato a dischi sottili, bagnare con Alchermes e caffè amaro unito a poco cognac e caffè sport.
+Decorare con Alchermes e cioccolato (crema con aggiunta cacao dolce, poca farina, latte tiepido e scaldare).
+
+Altra dose:
+5 uova (2 chiare), 2 cucchiai zucchero, 8 tazzine latte, 6 cucchiai farina, buccia grattugiata limone (poca), chicchi caffè. 
+
+
+### Ciambellone (gas)
+Farina gr. 500, burro 120 gr., zucchero 200 gr., uova 2, latte 1 bicchiere, limone buccia grattugiata, lievito 1 bustina.
+
+Sbattere uova e zucchero, aggiungere burro e farina, buccia grattugiata e latte. 
+Girare bene, aggiungere il lievito, mettere in un tegame unto e spolverato di farina.
+Sul gas 5 minuti max.
+Fornello medio - minimo per 45-60 minuti. 
+
+
+### Dolce con mele cotte e amaretti
+gr. 500 farina, gr. 150 burro, 2 uova + 1 tuorlo, gr. 200 zucchero, kg. 2 mele e pere, 200 gr. amaretti, buccia limone, 1/2 bicchiere vino bianco (poco amaretto Saronno nella frutta cotta).
+
+<u>PASTA FROLLA</u>: farina, burro, zucchero, uova.
+
+<u>RIPIENO</u>: sbucciare mele, cuocerle a pezzi con buccia di limone e vino bianco, finire di cuocere con recipiente scoperto per asciugare. Mescolare frutta scolata agli amaretti stritolati.
+
+<u>Con pasta frolla</u> foderare soletto imburrato, riempire con composto di frutta e chiudere sopra, con altra pasta.
+Cuocere a 170° - 180° per almeno un ora.
+
+
+### Dolce pasquale
+3 uova, 2 hg. burro, 1 etto candidi, 1 cubetto e mezzo lievito di birra, 2 hg. zucchero, uvetta a piacere, 1 vaniglia, mandolre per mettere sopra, zucchero a granelli.
+Un bicchiere di latte tiepido per sciogliere lievito, farina.
+Far sciogliere il lievito nel latte per 1/2 ora.
+Impastare tutto e lasciare lievitare al caldo e poi infornare e cuocere per 40 minuti.
+
+
+### Castagnole
+
+Dose: 3 uova, 250 farina
+[ogni uovo = 1 cucchiaio olio
+1 di zucchero
+mistrà [?] e limone, 1/2 bustina <u>lievito</u>.
+Impastare e friggere. 
 
