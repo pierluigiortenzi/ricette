@@ -18,8 +18,9 @@ Ricette di cucina
 - [Risotto e spinaci](#risotto-e-spinaci)
 - [Penne al salmone](#penne-al-salmone)
 - [Pasta e carciofi](#pasta-con-carciofi)
-Pasta puttanesca
-Gnocchi di semolino
+- [Pasta puttanesca](#spaghetti-pasta---puttanesca)
+- [Pasta dolce](#pasta-dolce)
+- [Gnocchi di semolino](#gnocchi-di-semolino)
 Sughi e verdure
 Minestra stracciatella
 Minestra patate e carote
@@ -244,4 +245,46 @@ Sciogliere burro e cipolla tritata - 1 cucchiaio farina
 Quando le tagliatelle sono cotte, unirle ai carciofi.
 Aggiungere parmigiano.
 Servire calde. 
+
+
+### Spaghetti pasta - puttanesca
+(Pasta circa 100 gr a persona)
+Pomodoro - spaghetti - 100 gr. olive nere
+100 gr. acciughe sotto sale - aglio - peperoncino
+olio - sale - capperi 1/2 cucchiaio - pepe - origano (prezzemolo al posto origano)
+
+Scaldare olio con aglio e capperi. Aggiungere pomodoro, olive, sale, pepe e poco origano.
+Cuocere per 15 minuti a fuoco basso.
+Cuocere in acqua salata la pasta - scolare.
+Cospargerla di sugo e formaggio.
+
+* Pasta molto cotta e non salata. 
+
+
+### Pasta dolce
+
+Condimento:
+noce moscata, cannella, cacao dolce o cioccolato
+zucchero, pane grattato, noci, nocciole tritate
+
+- Lessare la pasta, fare a sstrati con condimento. Mangiare giorno dopo.
+
+
+### Gnocchi di semolino
+x6 = latte 1 litro
+- semolino 250 gr.
+- sale q.b.
+- uovo 2 tuorli
+- parmigiano grattato
+- burro gr. 80.
+
+Quando il latte bolle, versarvi il semolino a pioggia, girando con un mestolo. Fare cuocere per 10 minuit. 
+Togliere dal fuoco, condire con poco sale, tuorli uovo un pugno di parmigiano grattato e metà del burro.
+- Versare il semolino su tavolo un armo [?] bagnato.
+Spianare con una lama ad un cm di altezza.
+Quando è freddo tagliare quadrati 4x4 cm.
+In un tegame da forno fare uno strato di semolino poi parmigiano (teglia imburrata) e così continuare a strati (x3-4 strati) a piramide.
+Sopra parmigiano e burro fuso.
+FORNO CALDO per 15 minuti (finché è rosolato).
+
 
