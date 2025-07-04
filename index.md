@@ -4,18 +4,17 @@ Ricette di cucina
 
 [TOC]
 
-Pomodori in padella
-Stracciatella uova
-Bandiera di verdure
-
-Crostini di fegato
-
-Sottaceti
-Cornetti di formaggio
-Pizza - Pizza fritta
-RIsotto alla milanese
-Risotto con salsicce
-Risotto con gamberetti
+- [Pomodori in padella](#pomodori-in-padella)
+- [Stracciatella uova](#stracciatella-uova-e-pomodoro)
+- [Bandiera di verdure](#bandiera-di-verdure)
+- [Crostini di fegato](#crostini-di-fegato)
+- [Sottaceti (Mattioli)](#sottaceti-mattioli)
+- [Cornetti di formaggio](#cornetti-di-formaggio-zia-imene)
+- [Bastoncini di formaggio](#bastoncini-formaggio)
+- [Pizza - Pizza fritta](#pizza)
+- [Risotto alla milanese](#risotto-alla-milanese)
+- [Risotto con salsicce](#risotto-con-salsicce)
+- [Risotto con gamberetti](#riso-con-gamberetti)
 Risotto e spinaci
 Penne salmone
 Pasta e carciofi
@@ -80,7 +79,8 @@ Cipolla, basilico, pomodori pelati, zucchine, patate, peperoni (ogni ortaggio di
 (Mettere prima le verdure più dure e aggiungere poi gli altri). 
 
 
-### Crostini di fegato (di pollo, x6)
+### Crostini di fegato
+(di pollo, x6)
 Fegato di 2 polli
 2 alici
 1 spicchio aglio
@@ -92,9 +92,9 @@ Quando i fegati sono cotti, togliere aglio e verdure e macinare finemente, mette
 Spalmare su pane tostato.
 
 
-##Agrodolce 
+## Agrodolce 
 
-### Sottatceti (Mattioli)
+### Sottaceti (Mattioli)
 Ricetta x 2kg
 
 1 litro aceto
@@ -151,7 +151,7 @@ Asciugare su Scottex. Metterle nel piatto e condire subito con <u>SUGO</u> caldo
 [Facoltativo origano e parmigiano. La mozzarella si può mettere anche solo direttamente sulla pizza e mettere supra sugo caldo.]
 
 
-### Risotto alla milanete
+### Risotto alla milanese
 x6. 
 - Riso gr. 500. 
 - Burro 50 gr.
