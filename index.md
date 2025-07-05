@@ -91,7 +91,7 @@ Fegato di 2 polli
 salvia, prezzemolo
 1 cucchiaino di capperi
 
-Far cuocere insieme con olio, sale, vino e aceto (ca. 1/2 bicchiere).
+Far cuocere insieme con olio, sale, vino e aceto (ca. ½ bicchiere).
 Quando i fegati sono cotti, togliere aglio e verdure e macinare finemente, metter un po' di limone (se troppo denso olio/burro).
 Spalmare su pane tostato.
 
@@ -102,7 +102,7 @@ Spalmare su pane tostato.
 Ricetta x 2kg
 
 1 litro aceto
-1/2 etto sale
+½ etto sale
 1 bicchiere medio di olio
 5 cucchiai di zucchero
 Peperoni, cipolline, carote, sedano, funghi, cavolfiori.
@@ -207,7 +207,7 @@ Quando è cotto (non deve essere troppo asciutto) aggiungere parmigiano.
 - Vino bianco (o spumante dolce) un bicchiere
 - sale, pepe, parmigiano grattugiato.
 
-Metà burro, 1/2 cipolla, 1 carota, gambo prezzemolo, alloro, 1 cucchiaio pomodoro.
+Metà burro, ½ cipolla, 1 carota, gambo prezzemolo, alloro, 1 cucchiaio pomodoro.
 Far rosolare. Aggiungere gamberetti lavati e asciugati. Rosolare 10 minuti. Mescolando aggiungere cognac e lasciare evaporare.
 
 In una pentola grande mettere 1 dito olio, il resto del burro e poca cipolla tritata, imbiondire cipolla. 
@@ -237,14 +237,14 @@ Cuocere le penne, ripassarle in padella con il sughetto e aggiungere poco parmig
 ### Pasta con carciofi
 
 In padella = 2 cucchiai burro
-- 1/2 cipolla tritata fina
-- 1/2 bicchiere vino bianco
+- ½ cipolla tritata fina
+- ½ bicchiere vino bianco
 - 1 cucchiaio farina
 - carciofi
 - prezzemolo
 
 Sciogliere burro e cipolla tritata - 1 cucchiaio farina 
-1/2 bicchiere vino secco, i carciofi tagliati a quarti e <u>PRECEDENTEMENTE LESSATI</u> far cuocere tutto insieme, aggiungere prezzemolo.
+½ bicchiere vino secco, i carciofi tagliati a quarti e <u>PRECEDENTEMENTE LESSATI</u> far cuocere tutto insieme, aggiungere prezzemolo.
 Quando le tagliatelle sono cotte, unirle ai carciofi.
 Aggiungere parmigiano.
 Servire calde. 
@@ -254,7 +254,7 @@ Servire calde.
 (Pasta circa 100 gr a persona)
 Pomodoro - spaghetti - 100 gr. olive nere
 100 gr. acciughe sotto sale - aglio - peperoncino
-olio - sale - capperi 1/2 cucchiaio - pepe - origano (prezzemolo al posto origano)
+olio - sale - capperi ½ cucchiaio - pepe - origano (prezzemolo al posto origano)
 
 Scaldare olio con aglio e capperi. Aggiungere pomodoro, olive, sale, pepe e poco origano.
 Cuocere per 15 minuti a fuoco basso.
@@ -311,8 +311,8 @@ Oppure aggiungerci il pomodoro.
 
 ### Sugo con cipolle
 x6
-3 cipolle grandi, 1/2 bicchiere olio, pomodoro (a scelta secondo gusti x quantità), sale e pepe. 
-Tagliare cipolle molto sottili. Cuocere con olio a fuoco leggero. Se occorre aggiungere acqua calda per 1/2 ore fino a che le cipolle si "sfanno".
+3 cipolle grandi, ½ bicchiere olio, pomodoro (a scelta secondo gusti x quantità), sale e pepe. 
+Tagliare cipolle molto sottili. Cuocere con olio a fuoco leggero. Se occorre aggiungere acqua calda per 1-2 ore fino a che le cipolle si "sfanno".
 Aggiungere pomodoro, sale, pepe. Cuocere altri 10 minuti.
 \* Le cipolle si possono sostituire con (peperoni) - (carciofi e patate) e altre verdure. 
 
@@ -343,7 +343,7 @@ Versarlo sulla pasta. Aggiungere parmigiano.
 - groviera 100 gr.
 - sale, pepe.
 
-2. Oppure: uova, pancetta 200 gr., cipolla, parmigiano, prezzemolo, sale, pepe, vino bianco 1/2 bicchiere.
+2. Oppure: uova, pancetta 200 gr., cipolla, parmigiano, prezzemolo, sale, pepe, vino bianco ½ bicchiere.
 Soffriggere appena cipolla e pancetta. Sbattere uova, parmigiano e pepe.
 
 Cuocere la pasta, scolarla e metterla subito nel tegame con condimento, mescolare. La pancetta ben calda va unita alla pasta. 
@@ -353,7 +353,7 @@ Cuocere la pasta, scolarla e metterla subito nel tegame con condimento, mescolar
 x6 persone
 - 3 uova - semolino 3 cucchiai
 - parmigiano grattato 4 cucchiai
-- brodo carne litri 1 e 1/2, sale
+- brodo carne litri 1 e ½, sale
 
 Rompere le uova + semolino + parmigiano.
 Un pizzico di sale. Sbattere e versarvi un mestolo di burro e sbattere con forchetta.
@@ -408,7 +408,7 @@ Ricoprire con gli odori. Coprire (se asciutto mettere acqua calda). Lasciare cuo
 
 ### Baccalà dolce (Iolanda)
 x6
-1/2 kg. baccalà, prugne secche, uvetta, sedano, cipolla, pane grattato (grosso).
+½ kg. baccalà, prugne secche, uvetta, sedano, cipolla, pane grattato (grosso).
 
 Lasciare 1 giorno baccalà a bagno cambiando spesso acqua. Quando è morbido togliere bene le spine e sbriciolarlo.
 Soffriggere appena una cipolla e sedano in poco olio, aggiungere baccalà stritolato + 2 hg di uvetta e le prugne snocciolate e sbollentate e tutta l'acqua di cottura.
@@ -447,7 +447,7 @@ Tagliare arista per la lunghezza con tagli paralleli in cui inserire le prugne d
 ### Coniglio alla Camilluzzi
 1 coniglio, 4 alici, 2 spicchi aglio, 4 foglie salvia, 1 pizzico di capperi.
 
-Battere sul tagliere le alici e il resto, tutto insieme e metterlo a bagno in 1/2 tazza di aceto e vino per quasi 2 ore.
+Battere sul tagliere le alici e il resto, tutto insieme e metterlo a bagno in ½ tazza di aceto e vino per quasi 2 ore.
 Cuocere a parte il coniglio spezzato (per 40 minuti - 1 ora a fuoco basso) con olio, sale e pepe, rosmarino e 2 spicchi aglio. 
 Quando è cotto aggiungere la salsa, farla evaporare e spegnere. 
 
@@ -456,16 +456,16 @@ Quando è cotto aggiungere la salsa, farla evaporare e spegnere.
 
 ### Osso buco
 Infarinare e far colorire in un tegame con poco olio, sale e pepe con salvia. 
-Quando sono colorite entrambe le parti aggiungere 2 cucchiai di marsala in 1/2 bicchiere di acqua (BRODO).
+Quando sono colorite entrambe le parti aggiungere 2 cucchiai di marsala in ½ bicchiere di acqua (BRODO).
 Quando è evaporato, mettere 1-2 bicchieri di acqua a coprire e cuocere a fuoco lento per 1 ora.
 
-(Facoltativo: dopo cotto aggiungere 1/2 filetto acciuga, una puntina di aglio e prezzemolo trito ... Riscaldare un attimo e servire).
+(Facoltativo: dopo cotto aggiungere ½ filetto acciuga, una puntina di aglio e prezzemolo trito ... Riscaldare un attimo e servire).
 
 
 ### Spezzatino al marsala
 x6
 - Vitello senza osso 1 kg. 
-- olio 1/2 bicchiere
+- olio ½ bicchiere
 - farina, sale, pepe, prezzemolo
 Tritare la cipolla e far imbiondire nell'olio. Aggiungere spezzatino e rosolare il tutto girando.
 Quando la carne è colorita, spruzzarla con la farina e bagnare con il marsala. 
@@ -473,7 +473,7 @@ Appena sarà evaporato, ricoprire la carne con acqua calda. Condire con sale e p
 Quando la carne è cotta e il sugo ristretto versare salsa e carne nel piatto. Cospargere di prezzemolo trito.
 
 ### Spezzatino vitella
-Olio, cipolla, sedano e carote. Far insaporire + 1/2 bicchiere vino, 3 cucchiai pomodoro, sale e piselli. Far cuocere lentamente.
+Olio, cipolla, sedano e carote. Far insaporire + ½ bicchiere vino, 3 cucchiai pomodoro, sale e piselli. Far cuocere lentamente.
 
 
 ### Cotechino con lenticchie
@@ -567,8 +567,8 @@ Spegnere. Aggiungeer prezzemolo o maggiorana e servire.
 
 
 ### Biscotto crostata con amaretti (Zia Imene)
-<u>Pasta sfoglia</> = 
-farina 3 etti, 3 tuorli uovo, zucchero 3 etti, burro 150 gr., 1/2 bustina lievito.
+<u>Pasta sfoglia</u> = 
+farina 3 etti, 3 tuorli uovo, zucchero 3 etti, burro 150 gr., ½ bustina lievito.
 
 Ungere bene soletto, pasta abbastanza dura da stendere sottile. 
 
@@ -581,7 +581,7 @@ Per COPRIRE altra sfoglia pasta pigiarla sui bordi e cuocere in forno per 20 min
 Per tegame 30 cm diametro.
 
 - Biscotto = 
-3 uova, 2 etti farina, 1 etto burro, 1/2 bicchiere latte, 2 bucce arancia grattugiate, zucchero 150 gr., 1 bustina lievito.
+3 uova, 2 etti farina, 1 etto burro, ½ bicchiere latte, 2 bucce arancia grattugiate, zucchero 150 gr., 1 bustina lievito.
 
 - Crema = (per farcire biscotto tagliato a metà)
 succo 3 arance e 1 limone, 1 uovo intero, 50 gr. burro, 1 bustina vaniglia, zucchero 1-2 cucchiaini, 1 cucchiaino di farina di fecola.
@@ -590,7 +590,7 @@ Dividere a metà il biscotto, farcire con la crema, spolverare con zucchero a ve
 
 
 ### Zuppa inglese
-6 <u>uova</u> (3 solo tuorli), 8 cucchiai <u>zucchero</u>, 6 cucchiai <u>farina</u>, 1 litro di <u>latte</u> (10 tazzine), 1/2 <u>limone</u>, 1 bustina vanillina, cannella poca dopo addensata.
+6 <u>uova</u> (3 solo tuorli), 8 cucchiai <u>zucchero</u>, 6 cucchiai <u>farina</u>, 1 litro di <u>latte</u> (10 tazzine), ½ <u>limone</u>, 1 bustina vanillina, cannella poca dopo addensata.
 
 Bagnare pan di spagna tagliato a dischi sottili, bagnare con Alchermes e caffè amaro unito a poco cognac e caffè sport.
 Decorare con Alchermes e cioccolato (crema con aggiunta cacao dolce, poca farina, latte tiepido e scaldare).
@@ -609,7 +609,7 @@ Fornello medio - minimo per 45-60 minuti.
 
 
 ### Dolce con mele cotte e amaretti
-gr. 500 farina, gr. 150 burro, 2 uova + 1 tuorlo, gr. 200 zucchero, kg. 2 mele e pere, 200 gr. amaretti, buccia limone, 1/2 bicchiere vino bianco (poco amaretto Saronno nella frutta cotta).
+gr. 500 farina, gr. 150 burro, 2 uova + 1 tuorlo, gr. 200 zucchero, kg. 2 mele e pere, 200 gr. amaretti, buccia limone, ½ bicchiere vino bianco (poco amaretto Saronno nella frutta cotta).
 
 <u>PASTA FROLLA</u>: farina, burro, zucchero, uova.
 
@@ -622,7 +622,7 @@ Cuocere a 170° - 180° per almeno un ora.
 ### Dolce pasquale
 3 uova, 2 hg. burro, 1 etto candidi, 1 cubetto e mezzo lievito di birra, 2 hg. zucchero, uvetta a piacere, 1 vaniglia, mandorle per mettere sopra, zucchero a granelli.
 Un bicchiere di latte tiepido per sciogliere lievito, farina.
-Far sciogliere il lievito nel latte per 1/2 ora.
+Far sciogliere il lievito nel latte per ½ ora.
 Impastare tutto e lasciare lievitare al caldo e poi infornare e cuocere per 40 minuti.
 
 
@@ -631,13 +631,13 @@ Impastare tutto e lasciare lievitare al caldo e poi infornare e cuocere per 40 m
 Dose: 3 uova, 250 farina
 [ogni uovo = 1 cucchiaio olio
 1 di zucchero
-mistrà [?] e limone, 1/2 bustina <u>lievito</u>.
+mistrà [?] e limone, ½ bustina <u>lievito</u>.
 Impastare e friggere. 
 
 
 ### Tiramisù
 
-1/2 kg mascarpone (oppure panna)
+½ kg mascarpone (oppure panna)
 A) 4-5 rossi uovo
 5 cucchiaini zucchero - sbattere tutto insieme.
 
@@ -654,7 +654,7 @@ Rifinire con cacao in polvere.
 
 ### Biscotti anice (Dalida)
 
-1 cubetto lievito birra, 1/2 bicchiere anice, 1 kg. farina.
+1 cubetto lievito birra, ½ bicchiere anice, 1 kg. farina.
 
 A) Un giorno prima sciogliere lievito in acqua tiepida. Impastare ogni tanto e lasciare lievitare.
 
@@ -663,7 +663,7 @@ B) Impastare tutto di nuovo. Unire l'anice, 2 bicchieri di olio, poco sale (l'im
 C) Formare le ciambelle, far lievitare 2 ore. Pentola grande, bollire acqua, all'ebollizione metterci ciambelle infarinate nella pentola una alla volta. Quando tornano a galla scolarle e poggiare su un piano infarinato.
 
 NB: infornare bene asciutte (anche giorno dopo) quando sono sbollentate tutte.
-Infornare a forno caldo per circa 1/2 ora fino a colorazione e cottura. 
+Infornare a forno caldo per circa ½ ora fino a colorazione e cottura. 
 
 
 ### Crostata
@@ -673,7 +673,7 @@ Sopra: marmellata oppure crema, sopra frutta e gelatina oppure ricotta con uvett
 
 
 ### Biscotti
-1 uovo, zucchero gr. 300, 1 bicchiere olio, vino bianco 1 bicchiere e 1/2, lievito 1 bustina, limone o anice o zenzero, farina 400.
+1 uovo, zucchero gr. 300, 1 bicchiere olio, vino bianco 1 bicchiere e ½, lievito 1 bustina, limone o anice o zenzero, farina 400.
 
 
 ### Dose biscotto Vania
@@ -693,7 +693,7 @@ Dose 30 maritozzi - Zia Gemma)
 - 100 gr. uvetta
 - 2 etti zucchero
 - 30 gr. lievito birra
-- 1/2 litro latte
+- ½ litro latte
 - farina q.b.
 
 Mettere lievito la mattina (ore 8) (lievito in acqua tiepida e farina)
@@ -708,7 +708,7 @@ Forno caldo e tempo come per biscotto (180° e 45-60 minuti).
 
 
 ### Maritozzi (Zia Rossella)
-4 uova, 300 gr. zucchero, 200 olio, 100 gr. lievito birra, 1/2 litro latte caldo, 150 gr. uvetta, 2 cartine vaniglia, 1 limone grattugiato, farina q.b. (per impasto come per crostata o gnocchi).
+4 uova, 300 gr. zucchero, 200 olio, 100 gr. lievito birra, ½ litro latte caldo, 150 gr. uvetta, 2 cartine vaniglia, 1 limone grattugiato, farina q.b. (per impasto come per crostata o gnocchi).
 
 Battere le chiare a parte. 
 Unire tutto all'impasto.
@@ -716,7 +716,7 @@ Fare maritozzi, mettere sul soletto a lievitare ed infornare forno caldo 180°.
 
 
 ### Dolce polenta
-2 uova, 5 cucchiai zucchero, 1 etto burro, 1 bicchiere farina polenta, 1 bicchiere farina bianca, 1/2 cartina lievito.
+2 uova, 5 cucchiai zucchero, 1 etto burro, 1 bicchiere farina polenta, 1 bicchiere farina bianca, ½ cartina lievito.
 
 Impastare tutto 40 minuti in forno 180°.
 Cospargere zucchero al velo.
@@ -853,7 +853,7 @@ Riempirli con marmellata calda, chiudere bene, ribaltare sottosopra (per fare il
 - 500 gr. farina segale
 - 100 gr. farina Manitoba (o 0)
 - 350/400 ml acqua
-- 1/2 cucchiaino sale, 1/2 cucchiaino sale (per lievitazione)
+- ½ cucchiaino sale, ½ cucchiaino sale (per lievitazione)
 - 10 gr lievito birra (o lievito madre per 500 gr. farina).
 
 Farina semola per spinatoie.
