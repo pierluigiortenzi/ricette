@@ -1,26 +1,27 @@
-/* Base font size scales with viewport width */
+/* Root font size scales with viewport width (for global scaling) */
 html {
-  font-size: clamp(100%, 2vw, 130%);
+  font-size: clamp(1rem, 2vw, 1.3rem); /* roughly 16px–21px range */
 }
 
-/* Body inherits html size */
+/* Everything else scales *relatively* off the root */
 body {
+  font-size: 1em;   /* = root size */
   line-height: 1.6;
 }
 
-/* Headings scale proportionally */
+/* Proportional scaling: head to body */
 h1 {
-  font-size: 2.5rem;
+  font-size: 2em;   /* 2x body size */
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.5em; /* 1.5x body size */
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.25em;
 }
 
 p, li, blockquote {
-  font-size: 1rem;
+  font-size: 1em;
 }
