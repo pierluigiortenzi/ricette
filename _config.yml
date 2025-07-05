@@ -1,9 +1,10 @@
 theme: minima
 
-# Tell Jekyll to use your custom CSS
+# Inject extra CSS without overriding the theme
 defaults:
   -
     scope:
       path: ""
     values:
-      css: "/assets/css/style.css"
+      layout: "default"
+      styles: ["/assets/css/override.css"]
