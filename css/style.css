@@ -1,28 +1,94 @@
-body {
-  font-family: sans-serif;
-  margin: 0 auto;
-  max-width: 800px;
-  padding: 1em;
+:root {
+  font-size: 100%; /* base size = 16px by default in browsers */
   line-height: 1.6;
-  background-color: #fff;
-  color: #333;
+  --font-scale: 1.125; /* modular scale ratio */
+  --font-body: 1rem;
+  --font-h6: calc(var(--font-body) * var(--font-scale));
+  --font-h5: calc(var(--font-h6) * var(--font-scale));
+  --font-h4: calc(var(--font-h5) * var(--font-scale));
+  --font-h3: calc(var(--font-h4) * var(--font-scale));
+  --font-h2: calc(var(--font-h3) * var(--font-scale));
+  --font-h1: calc(var(--font-h2) * var(--font-scale));
+  --max-width: 800px;
+  --side-padding: 1.5rem;
 }
 
-h1, h2, h3 {
-  color: #111;
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: var(--font-body);
+  padding: var(--side-padding);
+  max-width: var(--max-width);
+  margin: auto;
+  background-color: #fffefc;
+  color: #222;
+}
+
+h1 {
+  font-size: var(--font-h1);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: var(--font-h2);
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: var(--font-h3);
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+}
+
+h4, h5, h6 {
+  font-size: var(--font-h4);
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+p, li {
+  font-size: var(--font-body);
+  margin-bottom: 1rem;
+}
+
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+code {
+  font-family: monospace;
+  background: #f4f4f4;
+  padding: 0.1em 0.3em;
+  border-radius: 4px;
+  font-size: 0.95rem;
 }
 
 a {
-  color: #007acc;
+  color: #0077aa;
   text-decoration: none;
 }
-
 a:hover {
   text-decoration: underline;
 }
 
-@media (max-width: 600px) {
-  body {
-    padding: 0.5em;
+hr {
+  margin: 2rem 0;
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
+blockquote {
+  margin: 1rem 0;
+  padding-left: 1rem;
+  border-left: 3px solid #ccc;
+  font-style: italic;
+  color: #555;
+}
+
+@media screen and (max-width: 600px) {
+  :root {
+    font-size: 112.5%; /* ~18px for mobile readability */
+    --side-padding: 1rem;
   }
 }

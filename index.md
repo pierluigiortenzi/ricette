@@ -139,7 +139,7 @@ Ricavarne bastoncini e cuocerli al forno per 10-15 minuti a colore moderato.
 
 ### Pizza
 IMPASTO: 3 hg farina
-1/3 bustina lievito per pizza e gnocchi
+⅓ bustina lievito per pizza e gnocchi
 un pizzico di sale, latte o acqua
 olio [guarnire a piacere]
 infornare in forno caldo.
@@ -729,7 +729,7 @@ Cospargere zucchero al velo.
 2-3 dita di latte tiepido per sciogliere lievito,
 farina q.b. (quanta ne raccoglie impasto).
 
-Far lievitare tutto 3/4 di ora. 
+Far lievitare tutto ¾ di ora. 
 Friggere e calde rotolarle nello zucchero.
 
 Facoltativo: buccia limone grattugiata e 3 cucchiai "mistrà".
@@ -892,7 +892,7 @@ Quando raddoppia infornare a 250°. Dopo 10 minuti a 170°. Cuocere per 1 ora ci
 
 Ammollare uvetta in acqua tiepida, sminuzzare finemente foglie rosmarino (quasi tutte), sminuzzare, grattugiare solo la parte arancione della buccia d'arancia.
 
-Uvetta e pinoli aggiungerne 3/4 nell'impasto. 
+Uvetta e pinoli aggiungerne ¾ nell'impasto. 
 Unire farina, aggiungere acqua piano piano, l'impasto deve risultare "vischioso" ma non liquido.
 Aggiungere pinoli, uvetta e buccia arancia + sale.
 Versare nello stampo con carta forno. 
