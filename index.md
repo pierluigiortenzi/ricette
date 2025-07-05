@@ -270,7 +270,7 @@ Condimento:
 noce moscata, cannella, cacao dolce o cioccolato
 zucchero, pane grattato, noci, nocciole tritate
 
-- Lessare la pasta, fare a strati con condimento. Mangiare giorno dopo.
+Lessare la pasta, fare a strati con condimento. Mangiare giorno dopo.
 
 
 ### Gnocchi di semolino
