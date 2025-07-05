@@ -1,9 +1,26 @@
-body {
-  background-color: black;
-  color: lime;
-  font-size: 20px;
+/* Base font size scales with viewport width */
+html {
+  font-size: clamp(100%, 2vw, 130%);
 }
 
-h1, h2, h3 {
-  color: cyan;
+/* Body inherits html size */
+body {
+  line-height: 1.6;
+}
+
+/* Headings scale proportionally */
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+p, li, blockquote {
+  font-size: 1rem;
 }
