@@ -1,0 +1,9 @@
+theme: minima
+
+# Tell Jekyll to use your custom CSS
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/style.css"
