@@ -16,41 +16,41 @@ body {
   margin: 0 auto;
   padding: 2vw;
   max-width: 90vw;
-  font-size: clamp(1rem, 2.5vw, 1.125rem); /* Minimum 1rem (16px at minimum html font size) */
+  font-size: clamp(1rem, 2.5vw, 1.125rem); /* Minimum 1rem (16px) */
 }
 
 h1 {
+  font-size: clamp(2.5rem, 5vw, 3rem); /* Minimum 2.5rem (40px), much larger than body */
+  margin-bottom: 2vw;
+  margin-top: 3.5vw;
+}
+
+h2 {
   font-size: clamp(2rem, 4vw, 2.5rem); /* Minimum 2rem (32px), larger than body */
   margin-bottom: 1.5vw;
   margin-top: 3vw;
 }
 
-h2 {
+h3 {
   font-size: clamp(1.75rem, 3.5vw, 2rem); /* Minimum 1.75rem (28px), larger than body */
   margin-bottom: 1.25vw;
   margin-top: 2.5vw;
 }
 
-h3 {
+h4 {
   font-size: clamp(1.5rem, 3vw, 1.75rem); /* Minimum 1.5rem (24px), larger than body */
   margin-bottom: 1vw;
   margin-top: 2vw;
 }
 
-h4 {
+h5 {
   font-size: clamp(1.25rem, 2.75vw, 1.5rem); /* Minimum 1.25rem (20px), larger than body */
   margin-bottom: 1vw;
   margin-top: 1.5vw;
 }
 
-h5 {
-  font-size: clamp(1.125rem, 2.5vw, 1.375rem); /* Minimum 1.125rem (18px), larger than body */
-  margin-bottom: 1vw;
-  margin-top: 1.5vw;
-}
-
 h6 {
-  font-size: clamp(1.0625rem, 2.25vw, 1.25rem); /* Minimum 1.0625rem (17px), larger than body */
+  font-size: clamp(1.125rem, 2.5vw, 1.375rem); /* Minimum 1.125rem (18px), larger than body */
   margin-bottom: 1vw;
   margin-top: 1.5vw;
 }
