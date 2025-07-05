@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/ricette/assets/css/style.css">
+<link rel="stylesheet" href="/ricette/assets/css/override.css">
 
 Ricette di cucina
 
