@@ -1,31 +1,50 @@
-:root {
-  --scale-base: 1vw + 1vh;
-  --spacing-unit: calc(var(--scale-base) * 1);
-}
-
-html {
-  font-size: calc(var(--scale-base) * 0.6); /* scales with viewport */
-  line-height: 1.6;
-}
-
-body {
+/* Reset default margins and padding */
+* {
   margin: 0;
-  padding: var(--spacing-unit);
+  padding: 0;
+  box-sizing: border-box;
 }
 
-h1, h2, p {
-  margin-top: 0;
-  margin-bottom: var(--spacing-unit);
+/* Global scaling with minimum text size */
+html {
+  font-size: clamp(16px, 2.5vw, 18px); /* Mobile-safe base font size, minimum 16px */
+}
+
+/* Proportional spacing for elements */
+body {
+  line-height: 1.6;
+  margin: 0 auto;
+  padding: 2vw;
+  max-width: 90vw;
+  font-size: clamp(1rem, 2.5vw, 1.125rem); /* Ensures body text never falls below 1rem (16px at minimum) */
 }
 
 h1 {
-  font-size: calc(var(--scale-base) * 2.5);
+  font-size: clamp(2rem, 4vw, 2.5rem); /* Minimum 2rem (32px at minimum html font size) */
+  margin-bottom: 1.5vw;
+  margin-top: 3vw;
 }
 
 h2 {
-  font-size: calc(var(--scale-base) * 2);
+  font-size: clamp(1.5rem, 3vw, 1.75rem); /* Minimum 1.5rem (24px at minimum html font size) */
+  margin-bottom: 1.25vw;
+  margin-top: 2.5vw;
 }
 
 p {
-  font-size: calc(var(--scale-base) * 1);
+  font-size: clamp(1rem, 2.5vw, 1.125rem); /* Minimum 1rem (16px at minimum html font size) */
+  margin-bottom: 1vw;
+  margin-top: 1vw;
+}
+
+ul, ol {
+  font-size: clamp(1rem, 2.5vw, 1.125rem); /* Minimum 1rem (16px at minimum html font size) */
+  margin-bottom: 1vw;
+  margin-top: 1vw;
+  padding-left: 4vw; /* Proportional indent for lists */
+}
+
+li {
+  font-size: clamp(1rem, 2.5vw, 1.125rem); /* Minimum 1rem (16px at minimum html font size) */
+  margin-bottom: 0.5vw;
 }
