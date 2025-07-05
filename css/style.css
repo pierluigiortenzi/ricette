@@ -19,7 +19,7 @@ body {
   padding: var(--side-padding);
   max-width: var(--max-width);
   margin: auto;
-  background-color: #fffefc;
+  background-color: #000000;
   color: #222;
 }
 
