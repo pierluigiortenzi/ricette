@@ -903,7 +903,8 @@ Infornare a 180° per 30 minuti.
 
 ### Pan d'arancio
 - 400 gr. arance non trattate
-- 120 gr. latte100 gr. olio arachidi o simile
+- 120 gr. latte
+- 100 gr. olio arachidi o simile
 - 200 gr. zucchero
 - 3 uova
 - 250 gr. farina 00
