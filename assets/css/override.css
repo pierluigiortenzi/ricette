@@ -1,88 +1,31 @@
 :root {
-  --scale-ratio: 1.25; /* Modular scale (e.g., Major Third) */
-  --line-height: 1.6;
-  --space-unit: 1rem;
-  --max-width: 60ch;
-
-  --font-size-base: clamp(1rem, 1vw + 0.5rem, 1.125rem);
-  --font-size-h1: calc(var(--font-size-base) * var(--scale-ratio) * var(--scale-ratio) * var(--scale-ratio));
-  --font-size-h2: calc(var(--font-size-base) * var(--scale-ratio) * var(--scale-ratio));
-  --font-size-h3: calc(var(--font-size-base) * var(--scale-ratio));
+  --scale-base: 1vw + 1vh;
+  --spacing-unit: calc(var(--scale-base) * 1);
 }
 
 html {
-  font-size: 100%; /* 1rem = 16px by default */
-  line-height: var(--line-height);
-  box-sizing: border-box;
-  scroll-behavior: smooth;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
+  font-size: calc(var(--scale-base) * 0.6); /* scales with viewport */
+  line-height: 1.6;
 }
 
 body {
-  font-size: var(--font-size-base);
-  padding: var(--space-unit);
   margin: 0;
-  font-family: system-ui, sans-serif;
-  color: #111;
-  background-color: #fff;
-  max-width: var(--max-width);
-  margin-inline: auto;
+  padding: var(--spacing-unit);
 }
 
-h1, h2, h3 {
-  font-weight: 700;
-  line-height: 1.2;
-  margin-top: calc(var(--space-unit) * 2);
-  margin-bottom: var(--space-unit);
+h1, h2, p {
+  margin-top: 0;
+  margin-bottom: var(--spacing-unit);
 }
 
 h1 {
-  font-size: var(--font-size-h1);
+  font-size: calc(var(--scale-base) * 2.5);
 }
 
 h2 {
-  font-size: var(--font-size-h2);
-}
-
-h3 {
-  font-size: var(--font-size-h3);
+  font-size: calc(var(--scale-base) * 2);
 }
 
 p {
-  margin-block: var(--space-unit);
+  font-size: calc(var(--scale-base) * 1);
 }
-
-img, video {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin-block: var(--space-unit);
-}
-
-ul, ol {
-  padding-left: var(--space-unit);
-  margin-block: var(--space-unit);
-}
-
-a {
-  color: inherit;
-  text-decoration: underline;
-  text-underline-offset: 0.2em;
-}
-
-/* Responsive layout container */
-.container {
-  width: 100%;
-  max-width: var(--max-width);
-  margin-inline: auto;
-  padding-inline: var(--space-unit);
-}
-
-/* Utility classes (optional) */
-.mt-2 { margin-top: calc(var(--space-unit) * 2); }
-.mb-2 { margin-bottom: calc(var(--space-unit) * 2); }
-.pt-2 { padding-top: calc(var(--space-unit) * 2); }
-.pb-2 { padding-bottom: calc(var(--space-unit) * 2); }
