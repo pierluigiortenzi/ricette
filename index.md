@@ -2,7 +2,7 @@
 
 Ricette di cucina
 
-[TOC]
+Contenuti
 
 - [Pomodori in padella](#pomodori-in-padella)
 - [Stracciatella uova](#stracciatella-uova-e-pomodoro)
@@ -12,6 +12,9 @@ Ricette di cucina
 - [Cornetti di formaggio](#cornetti-di-formaggio-zia-imene)
 - [Bastoncini di formaggio](#bastoncini-formaggio)
 - [Pizza - Pizza fritta](#pizza)
+
+Primi piatti
+
 - [Risotto alla milanese](#risotto-alla-milanese)
 - [Risotto con salsicce](#risotto-con-salsicce)
 - [Risotto con gamberetti](#riso-con-gamberetti)
@@ -24,6 +27,10 @@ Ricette di cucina
 - [Sughi e verdure](#sughi-e-verdure)
 - [Minestra stracciatella](#minestra-stracciatella)
 - [Minestra patate e carote](#minestra-passato-patate-e-carote)
+- [Brodo di carne](#brodo-carne)
+
+Secondi di pesce
+
 - [Seppie e piselli](#seppie-con-piselli)
 - [Baccalà in umido](#baccalà-in-umido-con-verdure-e-patate)
 - [Baccalà dolce](#baccalà-dolce-iolanda)
@@ -37,13 +44,24 @@ Carne
 - [Spezzatino al marsala](#spezzatino-al-marsala)
 - [Cotechino e lenticchie](#cotechino-con-lenticchie)
 - [Maiale al latte](#magro-di-maiale-al-latte)
-- [Fagioli al radicchio / Fagioli in umido](#fagioli-e-radicchio)
-- [Finocchi alla besciamella / Pomodoro / Zucchine ripiene di tonno](#finocchi-alla-besciamella)
+
+Contorni
+
+- [Fagioli al radicchio rosso](#fagioli-al-radicchio-rosso)
+- [Fagioli in umido (baccelli gialli)](#fagioli-in-umido-baccelli-gialli)
+- [Cavolfiore gratinato](#cavolfiore-gratinato)
+- [Fagioli sgranati in umido](#fagioli-sgranati-in-umido)
+- [Finocchi alla besciamella](#finocchi-alla-besciamella)
+- [Finocchi al pomodoro](#finocchi-al-pomodoro)
+- [Zucchine ripiene di tonno](#zucchine-ripiene-di-tonno)
+
+Piatti unici 
+
 - [Uova al pomodoro](#uova-al-pomodoro)
 
-Dolci 
+Dolci - Pane
 
-- [Biscotto crostata con amaretti (Zia Imene)](#biscotto-crostata-con-amaretti-zia-imene)
+- [Crostata con amaretti (Zia Imene)](#biscotto-crostata-con-amaretti-zia-imene)
 - [Dolce all'arancia](#dolce-arancia-zia-emma)
 - [Zuppa inglese](#zuppa-inglese)
 - [Ciambellone per colazione](#ciambellone-gas)
@@ -60,11 +78,14 @@ Dolci
 - [Lingue di gatto](#lingue-di-gatto)
 - [Pane veloce](#pane-veloce)
 - [Biscotto allo yogurt](#biscotto-allo-yogurt-eleonora)
-- [Marmellata limoni](#marmellata-limoni)
 - [Pane di segale](#pane-di-segale)
 - [Castagnaccio](#castagnaccio)
 - [Pan d'arancio](#pan-darancio)
 - [Praline mascarpone](#praline-di-mascarpone)
+
+Conserve
+
+- [Marmellata limoni](#marmellata-limoni)
 
 
 ### Pomodori in padella
@@ -154,6 +175,9 @@ Cuocerle <u>in padella su olio caldo</u>.
 Asciugare su Scottex. Metterle nel piatto e condire subito con <u>SUGO</u> caldo.
 [Facoltativo origano e parmigiano. La mozzarella si può mettere anche solo direttamente sulla pizza e mettere supra sugo caldo.]
 
+## Primi piatti
+
+La pasta (circa 100 gr. a persona)
 
 ### Risotto alla milanese
 x6. 
@@ -265,12 +289,15 @@ Cospargerla di sugo e formaggio.
 
 
 ### Pasta dolce
+(Alchermes facoltativo)
 
-Condimento:
+La pasta (stivalozzi grandi) <u>va cotta molto bene, l'acqua senza SALE.</u>
+
+<u>Condimento</u>:
 noce moscata, cannella, cacao dolce o cioccolato
 zucchero, pane grattato, noci, nocciole tritate
 
-Lessare la pasta, fare a strati con condimento. Mangiare giorno dopo.
+Lessare la pasta - scolare. Fare uno strato di pasta <u>uno di condimento</u>. Mangiare giorno dopo.
 
 
 ### Gnocchi di semolino
@@ -282,8 +309,8 @@ x6 = latte 1 litro
 - burro gr. 80.
 
 Quando il latte bolle, versarvi il semolino a pioggia, girando con un mestolo. Fare cuocere per 10 minuti. 
-Togliere dal fuoco, condire con poco sale, tuorli uovo un pugno di parmigiano grattato e metà del burro.
-Versare il semolino su tavolo un armo [?] bagnato.
+Togliere dal fuoco, condire con poco sale, tuorli uovo, un pugno di parmigiano grattato e metà del burro.
+Versare il semolino su un piano bagnato.
 Spianare con una lama ad un cm di altezza.
 Quando è freddo tagliare quadrati 4x4 cm.
 In un tegame da forno fare uno strato di semolino poi parmigiano (teglia imburrata) e così continuare a strati (x3-4 strati) a piramide.
@@ -295,7 +322,7 @@ FORNO CALDO per 15 minuti (finché è rosolato).
 
 
 ### Sugo con funghi
-Grattugiare funghi - scaldarli con prezzemolo, olio e spicchio aglio.
+Grattugiare funghi 'crudi' - scaldarli con prezzemolo, olio e spicchio aglio.
 Condirci la pasta.
 
 
@@ -312,23 +339,23 @@ Oppure aggiungerci il pomodoro.
 ### Sugo con cipolle
 x6
 3 cipolle grandi, ½ bicchiere olio, pomodoro (a scelta secondo gusti x quantità), sale e pepe. 
-Tagliare cipolle molto sottili. Cuocere con olio a fuoco leggero. Se occorre aggiungere acqua calda per 1-2 ore fino a che le cipolle si "sfanno".
+Tagliare cipolle molto sottili. Cuocere con olio a fuoco leggero. Se occorre aggiungere acqua calda per ½ ore fino a che le cipolle si "sfanno".
 Aggiungere pomodoro, sale, pepe. Cuocere altri 10 minuti.
-\* Le cipolle si possono sostituire con (peperoni) - (carciofi e patate) e altre verdure. 
+N.B: Le cipolle si possono sostituire con (peperoni) - (carciofi e patate) e altre verdure. 
+\* Al sugo di verdure si può unire salsiccia sminuzzata. 
+
 
 ### Sugo amatriciana
 - 50 gr guanciale affumicato a listarelle sottili.
 - 50 gr pancetta a cubetti.
-Scaldare in padella con poca cipolla. Mettere poco vino rosso e lasciare evaporare. Aggiungere pomodoro - basilico.
+Scaldare in padella con poca cipolla. Mettere poco vino rosso e lasciare evaporare. Aggiungere pomodoro e basilico.
 
 Lessare la pasta, ripassare in padella e unire pomodoro e pecorino.
-
-\* Al sugo di verdure si può unire salsiccia sminuzzata.
 
 
 ### Sugo di verdure
 Soffriggere cipolla, aglio, carota, sedano, rape, zucchine. 
-Una scatola di pelati, prezzemolo e basilico, sale, pepe. Cuocere finché verdure morbide (1 ora).
+Una scatola di pelati, prezzemolo e basilico, sale, pepe. Cuocere finché verdure morbide (circa 1 ora).
 Versarlo sulla pasta. Aggiungere parmigiano.
 
 
@@ -361,6 +388,7 @@ Un pizzico di sale. Sbattere e versarvi un mestolo di burro e sbattere con forch
 Far bollire tutto il brodo e versarvi a poco a poco il composto agitando con la forchetta continuamente. 
 Far bollire qualche minuto. PRONTO.
 
+
 ### Minestra passato patate e carote
 
 Soffriggere cipolla, sedano, patate e carote tagliate a dadini.
@@ -373,7 +401,10 @@ Tostare dadini di pane carré, metterli sul piatto e servirci sopra brodo con pa
 ### Brodo carne
 Carne mista per brodo 1 kg.
 1 carota, cipolla, costa sedano, timo/prezzemolo, pomodorino, sale, pepe. 
-Mettere tutto in acqua fredda e bollire per almeno 2 ore al minimo.
+Mettere tutto in acqua fredda e bollire per almeno 2 ore.
+
+
+## Secondi di pesce
 
 
 ### Seppie con piselli 
@@ -395,6 +426,7 @@ Condire con sale e pepe. Bagnare con poco vino bianco. Quando è evaporato aggiu
 In un'altra pentola sminuzzare cipolla e soffriggere in olio. Aggiungere i piselli. Condire con sale e cuocere a calore vivace (se serve aggiungere acqua calda). 
 Quando le seppie sono cotte aggiungere i piselli - cuocere ancora poco ed è pronto. 
 
+
 ### Baccalà in umido con verdure e patate
 x 1 persona
 Baccalà gr. 50, olio gr. 10, patate gr. 50, carote gr. 10, cipolla, pomodoro gr. 40, sedano, prezzemolo, alloro e salvia.
@@ -405,6 +437,7 @@ In un tegame a parte, mettere le PATATE tagliate a fette rotonde, con olio e sal
 Sopra mettere baccalà a pezzi (TOLTE LE SPINE) (precedentemente ammollato e cambiata acqua), spinato. Sentire se troppo salato. Inzuppato e scaldato nel latte.
 
 Ricoprire con gli odori. Coprire (se asciutto mettere acqua calda). Lasciare cuocere lentamente fino a cottura delle patate. 
+
 
 ### Baccalà dolce (Iolanda)
 x6
@@ -432,7 +465,9 @@ Aggiungere prezzemolo, 1 foglia alloro (facoltativa mozzarella a pezzetti per ul
 
 Abbrustolire qualche fetta di pane. Metter nel piatto e versarvi sopra pesce e sugo.
 
+
 ## Carne
+
 
 ### Arista di maiale alle mele renette
 1 kg carne. Far rosolare con aglio, sale e olio.
@@ -472,6 +507,7 @@ Quando la carne è colorita, spruzzarla con la farina e bagnare con il marsala.
 Appena sarà evaporato, ricoprire la carne con acqua calda. Condire con sale e pepe. Lasciar cuocere adagio adagio.
 Quando la carne è cotta e il sugo ristretto versare salsa e carne nel piatto. Cospargere di prezzemolo trito.
 
+
 ### Spezzatino vitella
 Olio, cipolla, sedano e carote. Far insaporire + ½ bicchiere vino, 3 cucchiai pomodoro, sale e piselli. Far cuocere lentamente.
 
@@ -489,6 +525,8 @@ Scaldare 10 e servire con cotechino a fette.
 ### Polpette
 Bagnare un po' di pane con il latte e poi strizzarlo. 
 Unire la carne macinata, la maggiorana, il parmigiano, l'uovo salato e pepato. Prosciutto cotto spezzettato. 
+Fare pallini - rotolare nel pane grattato.
+<u>Oppure:</u> rosolare in un tegame e cuocere nel sugo di pomodoro, cipolla, sedano, carote. 
 
 
 ### Magro di maiale al latte
@@ -500,22 +538,31 @@ Rosolare fino colore dorato, salare la carne, scolare il grasso aggiungere il la
 Quando la carne è cotta, alzare il gas e far addensare la salsa; tagliare la carne e scaldare la salsa a parte con il succo di limone. Servire le fette coperte di salsa calda. 
 
 
-### Fagioli e radicchio 
+## Contorni
+
+
+### Fagioli al radicchio rosso
 (ed insalata)
+Fagioli sgranati, radicchio, agliio, olio, sale, aceto.
+
 Lessare i fagioli sgranati, sale e scolare.
 Nel frattempo che si cuociono, sminuzzare finemente radicchio e aglio (metterlo a bagno nel vassoio di portata con olio di oliva e una spruzzata di aceto). 
-I fagioli freddi vanno uniti al resto del vassoio.
-Girare e servire.
+I fagioli lessati una volta freddi vanno uniti al resto del vassoio e girati.
 
 
-### Fagioli in umido
-(Baccelli gialli)
+### Fagioli in umido (baccelli gialli)
+Fagiolini gialli in baccello, basilico, pomodoro a pezzi, olio, sale e pepe.
+
 Lavare i fagiolini, lasciare un po' d'acqua e far bollire piano in un tegame con olio, sale, pepe e basilico.
-Quando sono quasi cotti, aggiungere pomodori a pezzi.
+Quando sono quasi cotti, aggiungere pomodoro a pezzi.
+
+
+### Cavolfiore gratinato
+Cavolfiore, farina, burro, formaggio (tipo Edam), noce moscata, sale.
 
 
 ### Fagioli sgranati in umido
-Far soffriggere la cipolla con sedano in olio, sale e pepe. Aggiungere fagioli lessati e pomodoro.
+Far soffriggere la cipolla con sedano in olio, sale e pepe. Aggiungere fagioli in grani lessati e pomodoro. Portare a cottura e servire.
 
 
 ### Finocchi alla besciamella
@@ -547,10 +594,14 @@ Impastare e riempire zucchine.
 Preparare del <u>sugo</u> fatto con olio, aglio e conserva di pomodoro. Mettere sulle zucchine e sul soletto poi nel forno. 
 
 
+## Piatti unici
+
+
 ### Uova al pomodoro
 - 4 uova
 - 400 gr. passata pomodoro
-- 1 cipolla / 1 spicchio aglio
+- 1 cipolla 
+- 1 spicchio aglio
 - 1 peperone rosso
 - 3 cucchiai olio
 - prezzemolo tritato (oppure maggiorata)
@@ -561,9 +612,12 @@ Per 15 minuti cuocere cipolla tritata, l'aglio, olio, poco peperoncino / aggiung
 Unire il pomodoro passato. Cuocere per altri 15 minuti (aggiustare il sale). 
 Sgusciare le uova, adagiarle intere nella salsa di pomodoro.
 Cuocere piano per 5 minuti.
-Spegnere. Aggiungeer prezzemolo o maggiorana e servire.
+Spegnere. Aggiungere prezzemolo o maggiorana e servire.
 
-\* Le uova possono essere lasciate intere o sbattute e sminuzzate e servite su crostini di pane nel piatto. 
+\* Le uova possono essere lasciate intere o sbattute come per la frittata e cotte nel pomodoro girando con mestolo. Si può servire con pane tostato nel piatto.
+
+
+## Dolci - Pane
 
 
 ### Biscotto crostata con amaretti (Zia Imene)
@@ -627,7 +681,6 @@ Impastare tutto e lasciare lievitare al caldo e poi infornare e cuocere per 40 m
 
 
 ### Castagnole
-
 Dose: 3 uova, 250 farina
 [ogni uovo = 1 cucchiaio olio
 1 di zucchero
@@ -636,7 +689,6 @@ Impastare e friggere.
 
 
 ### Tiramisù
-
 ½ kg mascarpone (oppure panna)
 A) 4-5 rossi uovo
 5 cucchiaini zucchero - sbattere tutto insieme.
@@ -649,10 +701,7 @@ Rifinire con cacao in polvere.
 4 uova, 150 gr. burro, 200 gr. zucchero, 300 farina, 1 bustina lievito (mandorle tritate o aroma mandorle).
 
 
-## Tipo pane
-
-
-### Biscotti anice (Dalida)
+### Biscotti anice (Dalida) (tipo pane)
 
 1 cubetto lievito birra, ½ bicchiere anice, 1 kg. farina.
 
@@ -707,7 +756,7 @@ Quando sono cresciuti infornare.
 Forno caldo e tempo come per biscotto (180° e 45-60 minuti).
 
 
-### Maritozzi (Zia Rossella)
+### Maritozzi veloci (Zia Rossella)
 4 uova, 300 gr. zucchero, 200 olio, 100 gr. lievito birra, ½ litro latte caldo, 150 gr. uvetta, 2 cartine vaniglia, 1 limone grattugiato, farina q.b. (per impasto come per crostata o gnocchi).
 
 Battere le chiare a parte. 
@@ -743,8 +792,8 @@ Tagliare 3 mele a spicchi sottili, condirle con sambuca, zucchero o cannella, me
 
 
 ### Pizza di formaggio
-4 uova, 2 bicchieri latte, 1 bicchiere olio, formaggio quasi 2 etti (quasi tutto pecorino),
-2 buste lievito pizzaiolo.
+4 uova, 2 bicchieri latte, 1 bicchiere olio, formaggio 2 etti (quasi tutto pecorino),
+2 buste lievito pizzaiolo x salati.
 Farina quanto basta per impasto un po' più denso del biscotto.
 <u>Cottura</u> sul fornello 5 minuti al max, poi minimo per circa 1 ora. 
 
@@ -832,22 +881,6 @@ Teglia oliata e infarinata, oppure con carta forno.
 Infornare a FORNO CALDO a 180° per circa 40 minuti. 
 
 
-### Marmellata limoni
-- 1 kg limoni
-- 400-500 gr. zucchero
-- 2 mele
-
-Far bollire limoni interi per 3-4 volte. Buttare l'acqua ogni volta.
-
-Far freddare. Togliere semi, sbriciolare e tagliare tutto a pezzi piccoli - medi.
-
-Far bollire per 45 minuti (in una teglia con lo zucchero e mele, maneggiare e fare attenzione che non si attacchi al tegame).
-
-Lavare i vasi e mettere in forno a 120° per 10 minuti o bollirli.
-
-Riempirli con marmellata calda, chiudere bene, ribaltare sottosopra (per fare il vuoto) o facendoli bollire pieni per 20 minuti a "bagno maria".
-
-
 ### Pane di segale
 (La lievitazione va da 4 a 20 ore)
 - 500 gr. farina segale
@@ -931,4 +964,23 @@ Fare palline (della grandezza di una noce).
 Inserire dentro mandorla o nocciola.
 Rotolare le palline nella polvere di cocco. 
 Farle riposare in frigorifero. 
+
+
+## Conserve
+
+
+### Marmellata limoni
+- 1 kg limoni
+- 400-500 gr. zucchero
+- 2 mele
+
+Far bollire limoni interi per 3-4 volte. Buttare l'acqua ogni volta.
+
+Far freddare. Togliere semi, sbriciolare e tagliare tutto a pezzi piccoli - medi.
+
+Far bollire per 45 minuti (in una teglia con lo zucchero e mele, maneggiare e fare attenzione che non si attacchi al tegame).
+
+Lavare i vasi e mettere in forno a 120° per 10 minuti o bollirli.
+
+Riempirli con marmellata calda, chiudere bene, ribaltare sottosopra (per fare il vuoto) o facendoli bollire pieni per 20 minuti a "bagno maria".
 
